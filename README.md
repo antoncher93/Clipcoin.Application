@@ -1,0 +1,2 @@
+# Clipcoin.Application
+Android
